@@ -31,8 +31,8 @@ install_requires = [
 
 setup(
     name='yaksh',
-    author='Python Team at FOSSEE, IIT Bombay',
-    author_email='python@fossee.in',
+    author='Python Team at iAastha Research Team',
+    author_email='it@iaastha.com',
     version=get_version(),
     packages=find_packages(),
     include_package_data=True,
