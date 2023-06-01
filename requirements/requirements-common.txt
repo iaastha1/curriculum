@@ -18,7 +18,7 @@ django-celery-beat==2.0.0
 django-celery-results==1.2.1
 djangorestframework==3.11.2
 django-cors-headers==3.1.0
-Pillow
+Pillow==6.0.0
 pandas
 qrcode
 more-itertools==8.4.0
